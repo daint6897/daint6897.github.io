@@ -1,0 +1,1 @@
+{"componentChunkName":"component---src-pages-tags-js","path":"/tags/","webpackCompilationHash":"e0756df9fbac9962b8c6","result":{"data":{"allMarkdownRemark":{"edges":[{"node":{"frontmatter":{"tags":["gatsby","blog"]}}},{"node":{"frontmatter":{"tags":["gatsby","bootstrap"]}}}]}},"pageContext":{"isCreatedByStatefulCreatePages":true}}}
